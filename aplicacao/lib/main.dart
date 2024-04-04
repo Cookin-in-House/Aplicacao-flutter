@@ -24,7 +24,8 @@ class LoginPage extends StatelessWidget{
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         body: Padding(
-          padding: EdgeInsets.fromLTRB(100, 100, 100, 100),
+          
+          padding: EdgeInsets.fromLTRB(10, 10, 10, 10),
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,//alinha so elementos no centro
             crossAxisAlignment: CrossAxisAlignment.start,
